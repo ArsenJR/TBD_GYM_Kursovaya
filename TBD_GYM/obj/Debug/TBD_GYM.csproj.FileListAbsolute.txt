@@ -1,0 +1,23 @@
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\Database_GYM.mdf
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\Database_GYM_log.ldf
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.exe.config
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.exe
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.pdb
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.exe
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.pdb
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.Form1.resources
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\bin\Debug\Database_GYM.mdf
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\bin\Debug\Database_GYM_log.ldf
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\bin\Debug\TBD_GYM.exe.config
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\bin\Debug\TBD_GYM.exe
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\bin\Debug\TBD_GYM.pdb
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.csprojAssemblyReference.cache
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.Form1.resources
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.Properties.Resources.resources
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.csproj.GenerateResource.cache
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.exe
+C:\Users\arsen\Desktop\TBD_GYM-main\TBD_GYM\obj\Debug\TBD_GYM.pdb
